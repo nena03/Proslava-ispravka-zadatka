@@ -1,0 +1,8 @@
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\bin\Debug\Proslava1.exe
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\bin\Debug\Proslava1.pdb
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\Proslava.Form1.resources
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\Proslava1.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\Proslava1.exe
+C:\Users\Pc\Desktop\RACUNARI\Proslava1\Proslava1\obj\Debug\Proslava1.pdb

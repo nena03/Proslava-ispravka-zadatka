@@ -32,7 +32,7 @@ namespace Proslava
         }
         public bool StarijeOd(Proslava pr)
         {
-            return godiste < pr.godiste;
+            return godiste > pr.godiste;
         }
         public string Prikaz()
         {
